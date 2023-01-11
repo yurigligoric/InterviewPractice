@@ -1,0 +1,15 @@
+D:\C++ Console Applications\InterviewPractice\obj\Debug\net7.0\InterviewPractice.csproj.AssemblyReference.cache
+D:\C++ Console Applications\InterviewPractice\obj\Debug\net7.0\InterviewPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ Console Applications\InterviewPractice\obj\Debug\net7.0\InterviewPractice.AssemblyInfoInputs.cache
+D:\C++ Console Applications\InterviewPractice\obj\Debug\net7.0\InterviewPractice.AssemblyInfo.cs
+D:\C++ Console Applications\InterviewPractice\obj\Debug\net7.0\InterviewPractice.csproj.CoreCompileInputs.cache
+D:\C++ Console Applications\InterviewPractice\bin\Debug\net7.0\InterviewPractice.exe
+D:\C++ Console Applications\InterviewPractice\bin\Debug\net7.0\InterviewPractice.deps.json
+D:\C++ Console Applications\InterviewPractice\bin\Debug\net7.0\InterviewPractice.runtimeconfig.json
+D:\C++ Console Applications\InterviewPractice\bin\Debug\net7.0\InterviewPractice.dll
+D:\C++ Console Applications\InterviewPractice\bin\Debug\net7.0\InterviewPractice.pdb
+D:\C++ Console Applications\InterviewPractice\obj\Debug\net7.0\InterviewPractice.dll
+D:\C++ Console Applications\InterviewPractice\obj\Debug\net7.0\refint\InterviewPractice.dll
+D:\C++ Console Applications\InterviewPractice\obj\Debug\net7.0\InterviewPractice.pdb
+D:\C++ Console Applications\InterviewPractice\obj\Debug\net7.0\InterviewPractice.genruntimeconfig.cache
+D:\C++ Console Applications\InterviewPractice\obj\Debug\net7.0\ref\InterviewPractice.dll
